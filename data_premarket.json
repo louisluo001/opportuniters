@@ -16,7 +16,7 @@
       "entry": 1.87,
       "tp": 2.5,
       "sl": 1.7,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "11x volume surge",
@@ -25,7 +25,11 @@
       "reason": "Surge +10.8% with 10.5x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "SFWL",
@@ -40,7 +44,7 @@
       "entry": 1.01,
       "tp": 1.35,
       "sl": 0.92,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "5.1x volume spike",
@@ -49,7 +53,11 @@
       "reason": "Surge +13.0% with 5.1x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "DXST",
@@ -64,7 +72,7 @@
       "entry": 3.23,
       "tp": 4.32,
       "sl": 2.94,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "18x volume surge",
@@ -73,7 +81,11 @@
       "reason": "Surge +16.4% with 18.0x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "SXTC",
@@ -88,7 +100,7 @@
       "entry": 2.37,
       "tp": 3.17,
       "sl": 2.16,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "7.3x volume spike",
@@ -97,7 +109,11 @@
       "reason": "Surge +11.9% with 7.3x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "MPG",
@@ -112,7 +128,7 @@
       "entry": 6.29,
       "tp": 8.41,
       "sl": 5.73,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "16x volume surge"
@@ -120,7 +136,11 @@
       "reason": "Surge +17.5% with 15.7x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "GMBL",
@@ -135,7 +155,7 @@
       "entry": 1.88,
       "tp": 2.51,
       "sl": 1.71,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "6.4x volume spike",
@@ -144,7 +164,11 @@
       "reason": "Surge +17.0% with 6.4x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "BBIG",
@@ -159,7 +183,7 @@
       "entry": 4.85,
       "tp": 6.48,
       "sl": 4.42,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "9.5x volume spike",
@@ -168,7 +192,11 @@
       "reason": "Surge +24.4% with 9.5x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "AYRO",
@@ -183,7 +211,7 @@
       "entry": 7.38,
       "tp": 9.87,
       "sl": 6.73,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "6.4x volume spike"
@@ -191,7 +219,11 @@
       "reason": "Surge +23.9% with 6.4x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "NWGL",
@@ -206,7 +238,7 @@
       "entry": 1.05,
       "tp": 1.4,
       "sl": 0.96,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "5.6x volume spike",
@@ -215,7 +247,11 @@
       "reason": "Surge +27.9% with 5.6x volume · $16.2M cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "FEBO",
@@ -230,7 +266,7 @@
       "entry": 1.31,
       "tp": 1.76,
       "sl": 1.2,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Micro float 3.1M",
         "Strong gain",
@@ -240,7 +276,11 @@
       "reason": "Surge +15.0% with 12.0x volume · $12.8M cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "PLTS",
@@ -255,7 +295,7 @@
       "entry": 18.18,
       "tp": 24.3,
       "sl": 16.56,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "34x volume surge"
@@ -263,7 +303,11 @@
       "reason": "Surge +6.2% with 34.0x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "MTEX",
@@ -278,7 +322,7 @@
       "entry": 6.86,
       "tp": 9.17,
       "sl": 6.25,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "6.8x volume spike"
@@ -286,7 +330,11 @@
       "reason": "Surge +4.9% with 6.8x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "SLON",
@@ -301,7 +349,7 @@
       "entry": 5.38,
       "tp": 7.2,
       "sl": 4.9,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "5.2x volume spike"
@@ -309,7 +357,11 @@
       "reason": "Surge +6.0% with 5.2x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "ANTA",
@@ -324,7 +376,7 @@
       "entry": 8.42,
       "tp": 11.26,
       "sl": 7.67,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "4.9x above avg"
@@ -332,7 +384,11 @@
       "reason": "Surge +22.5% with 4.9x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "LOT",
@@ -342,21 +398,26 @@
       "volx": 7.1,
       "mktcap": null,
       "float_m": null,
-      "score": 74,
-      "recommendation": "CAUTION BUY",
+      "score": 89,
+      "recommendation": "STRONG BUY",
       "entry": 1.5,
       "tp": 2.01,
       "sl": 1.37,
-      "catalyst": "news",
+      "catalyst": "fda",
       "signals": [
+        "FDA catalyst",
         "Moderate gain",
         "7.1x volume spike",
         "Ultra low price"
       ],
-      "reason": "Surge +4.9% with 7.1x volume · small cap",
+      "reason": "12 Consumer Discretionary Stocks Moving In Monday's Pre-Mark…",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 2,
+      "top_news": "12 Consumer Discretionary Stocks Moving In Monday's Pre-Market Session",
+      "news_source": "benzinga",
+      "news_time": "08:05 AM ET"
     },
     {
       "ticker": "TDACU",
@@ -371,7 +432,7 @@
       "entry": 11.01,
       "tp": 14.72,
       "sl": 10.03,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "6.0x volume spike"
@@ -379,7 +440,11 @@
       "reason": "Surge +4.7% with 6.0x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "VACH",
@@ -394,7 +459,7 @@
       "entry": 14.23,
       "tp": 19.02,
       "sl": 12.96,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Explosive 30%+",
         "4.5x above avg"
@@ -402,7 +467,11 @@
       "reason": "Surge +35.7% with 4.5x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "EXOZ",
@@ -417,7 +486,7 @@
       "entry": 13.13,
       "tp": 17.55,
       "sl": 11.96,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "4.5x above avg"
@@ -425,7 +494,11 @@
       "reason": "Surge +13.5% with 4.5x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "CLLS",
@@ -435,19 +508,20 @@
       "volx": 5.6,
       "mktcap": null,
       "float_m": null,
-      "score": 70,
-      "recommendation": "CAUTION BUY",
+      "score": 85,
+      "recommendation": "STRONG BUY",
       "entry": 4.45,
       "tp": 5.95,
       "sl": 4.06,
-      "catalyst": "news",
+      "catalyst": "fda",
       "signals": [
+        "FDA catalyst",
         "Strong gain",
         "Above VWAP ✓",
         "5.6x volume spike",
         "Low price range"
       ],
-      "reason": "Surge +22.8% with 5.6x volume · small cap",
+      "reason": "Leggett & Platt, Allogene Therapeutics, Revolution Medicines…",
       "tech_score": 25,
       "tech_signals": [
         "Above VWAP ✓"
@@ -455,7 +529,11 @@
       "tech_details": {
         "vwap": 4.3
       },
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 2,
+      "top_news": "Leggett & Platt, Allogene Therapeutics, Revolution Medicines And Other Big Stocks Moving Higher On Monday",
+      "news_source": "benzinga",
+      "news_time": "10:29 AM ET"
     },
     {
       "ticker": "IMA",
@@ -465,18 +543,19 @@
       "volx": 51.9,
       "mktcap": null,
       "float_m": null,
-      "score": 70,
-      "recommendation": "CAUTION BUY",
+      "score": 85,
+      "recommendation": "STRONG BUY",
       "entry": 6.44,
       "tp": 8.61,
       "sl": 5.87,
-      "catalyst": "news",
+      "catalyst": "fda",
       "signals": [
+        "FDA catalyst",
         "Explosive 30%+",
         "Above VWAP ✓",
         "52x volume surge"
       ],
-      "reason": "Surge +40.2% with 51.9x volume · small cap",
+      "reason": "12 Health Care Stocks Moving In Monday's Pre-Market Session",
       "tech_score": 25,
       "tech_signals": [
         "Above VWAP ✓"
@@ -484,7 +563,11 @@
       "tech_details": {
         "vwap": 5.87
       },
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 3,
+      "top_news": "12 Health Care Stocks Moving In Monday's Pre-Market Session",
+      "news_source": "benzinga",
+      "news_time": "08:05 AM ET"
     },
     {
       "ticker": "COIG",
@@ -499,7 +582,7 @@
       "entry": 6.82,
       "tp": 9.11,
       "sl": 6.21,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "Above VWAP ✓",
@@ -513,7 +596,11 @@
       "tech_details": {
         "vwap": 6.3
       },
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "CLNK",
@@ -528,7 +615,7 @@
       "entry": 16.76,
       "tp": 22.4,
       "sl": 15.26,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "4.2x above avg"
@@ -536,7 +623,11 @@
       "reason": "Surge +5.6% with 4.2x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "ETCO",
@@ -551,7 +642,7 @@
       "entry": 12.03,
       "tp": 16.08,
       "sl": 10.96,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "4.0x above avg"
@@ -559,7 +650,11 @@
       "reason": "Surge +7.9% with 4.0x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "AFRI",
@@ -574,7 +669,7 @@
       "entry": 9.99,
       "tp": 13.35,
       "sl": 9.1,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "6.4x volume spike"
@@ -582,7 +677,11 @@
       "reason": "Surge +4.0% with 6.4x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "PSIL",
@@ -597,7 +696,7 @@
       "entry": 17.83,
       "tp": 23.83,
       "sl": 16.24,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "4.3x above avg"
@@ -605,7 +704,11 @@
       "reason": "Surge +4.6% with 4.3x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "ARKT",
@@ -620,7 +723,7 @@
       "entry": 18.09,
       "tp": 24.18,
       "sl": 16.48,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "9.8x volume spike"
@@ -628,7 +731,11 @@
       "reason": "Surge +3.7% with 9.8x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "FGI",
@@ -643,7 +750,7 @@
       "entry": 4.51,
       "tp": 6.03,
       "sl": 4.11,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "3.5x above avg",
@@ -652,7 +759,11 @@
       "reason": "Surge +14.3% with 3.5x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "SSBI",
@@ -667,7 +778,7 @@
       "entry": 13.79,
       "tp": 18.43,
       "sl": 12.56,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "4.2x above avg"
@@ -675,7 +786,11 @@
       "reason": "Surge +4.3% with 4.2x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "MSC",
@@ -690,7 +805,7 @@
       "entry": 2.85,
       "tp": 3.81,
       "sl": 2.59,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "4.0x above avg",
@@ -699,7 +814,11 @@
       "reason": "Surge +4.4% with 4.0x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "KXIN",
@@ -714,7 +833,7 @@
       "entry": 6.38,
       "tp": 8.53,
       "sl": 5.81,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "3.1x above avg"
@@ -722,7 +841,11 @@
       "reason": "Surge +6.6% with 3.1x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "IPM",
@@ -737,7 +860,7 @@
       "entry": 1.81,
       "tp": 2.42,
       "sl": 1.65,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "3.1x above avg",
@@ -746,7 +869,11 @@
       "reason": "Surge +6.2% with 3.1x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "SATLW",
@@ -761,7 +888,7 @@
       "entry": 1.92,
       "tp": 2.56,
       "sl": 1.75,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "3.0x above avg",
@@ -770,7 +897,11 @@
       "reason": "Surge +18.7% with 3.0x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "FMQQ",
@@ -785,7 +916,7 @@
       "entry": 11.52,
       "tp": 15.4,
       "sl": 10.5,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "3.3x above avg"
@@ -793,7 +924,11 @@
       "reason": "Surge +4.7% with 3.3x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "REED",
@@ -808,7 +943,7 @@
       "entry": 4.04,
       "tp": 5.4,
       "sl": 3.68,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "3.0x above avg",
@@ -817,7 +952,11 @@
       "reason": "Surge +8.4% with 3.0x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "VRM",
@@ -832,7 +971,7 @@
       "entry": 16.41,
       "tp": 21.94,
       "sl": 14.95,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "3.0x above avg"
@@ -840,7 +979,11 @@
       "reason": "Surge +17.0% with 3.0x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "LMNX",
@@ -855,7 +998,7 @@
       "entry": 14.98,
       "tp": 20.02,
       "sl": 13.64,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Micro float 0.3M",
         "Moderate gain",
@@ -865,7 +1008,11 @@
       "tech_score": 0,
       "tech_signals": [],
       "tech_details": {},
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "RCT",
@@ -875,22 +1022,27 @@
       "volx": 2285.1,
       "mktcap": null,
       "float_m": null,
-      "score": 60,
+      "score": 75,
       "recommendation": "CAUTION BUY",
       "entry": 1.03,
       "tp": 1.37,
       "sl": 0.93,
-      "catalyst": "news",
+      "catalyst": "earnings",
       "signals": [
+        "Earnings catalyst",
         "Explosive 30%+",
         "2285x volume surge",
         "Ultra low price"
       ],
-      "reason": "Surge +78.0% with 2285.1x volume · small cap",
+      "reason": "Dow Dips Over 350 Points; Goldman Sachs Posts Upbeat Earning…",
       "tech_score": 0,
       "tech_signals": [],
       "tech_details": {},
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 3,
+      "top_news": "Dow Dips Over 350 Points; Goldman Sachs Posts Upbeat Earnings",
+      "news_source": "benzinga",
+      "news_time": "09:48 AM ET"
     },
     {
       "ticker": "OPTXW",
@@ -905,7 +1057,7 @@
       "entry": 1.81,
       "tp": 2.42,
       "sl": 1.65,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Strong gain",
         "872x volume surge",
@@ -915,7 +1067,11 @@
       "tech_score": 0,
       "tech_signals": [],
       "tech_details": {},
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "JDZG",
@@ -925,19 +1081,20 @@
       "volx": 198.7,
       "mktcap": null,
       "float_m": null,
-      "score": 60,
+      "score": 75,
       "recommendation": "CAUTION BUY",
       "entry": 1.76,
       "tp": 2.36,
       "sl": 1.61,
-      "catalyst": "news",
+      "catalyst": "fda",
       "signals": [
+        "FDA catalyst",
         "Moderate gain",
         "Below VWAP ✗",
         "199x volume surge",
         "Ultra low price"
       ],
-      "reason": "Surge +13.7% with 198.7x volume · small cap",
+      "reason": "12 Consumer Discretionary Stocks Moving In Monday's Pre-Mark…",
       "tech_score": 0,
       "tech_signals": [
         "Below VWAP ✗"
@@ -945,7 +1102,11 @@
       "tech_details": {
         "vwap": 2.07
       },
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 3,
+      "top_news": "12 Consumer Discretionary Stocks Moving In Monday's Pre-Market Session",
+      "news_source": "benzinga",
+      "news_time": "08:05 AM ET"
     },
     {
       "ticker": "SEER",
@@ -955,22 +1116,27 @@
       "volx": 6.2,
       "mktcap": null,
       "float_m": null,
-      "score": 60,
+      "score": 75,
       "recommendation": "CAUTION BUY",
       "entry": 1.89,
       "tp": 2.53,
       "sl": 1.73,
-      "catalyst": "news",
+      "catalyst": "fda",
       "signals": [
+        "FDA catalyst",
         "Moderate gain",
         "6.2x volume spike",
         "Ultra low price"
       ],
-      "reason": "Surge +11.6% with 6.2x volume · small cap",
+      "reason": "Seer Shares Jump On Takeover Proposal",
       "tech_score": 0,
       "tech_signals": [],
       "tech_details": {},
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 2,
+      "top_news": "Seer Shares Jump On Takeover Proposal",
+      "news_source": "benzinga",
+      "news_time": "10:36 AM ET"
     },
     {
       "ticker": "RECT",
@@ -980,22 +1146,27 @@
       "volx": 1569.1,
       "mktcap": null,
       "float_m": null,
-      "score": 60,
+      "score": 75,
       "recommendation": "CAUTION BUY",
       "entry": 2.41,
       "tp": 3.23,
       "sl": 2.2,
-      "catalyst": "news",
+      "catalyst": "fda",
       "signals": [
+        "FDA catalyst",
         "Explosive 30%+",
         "1569x volume surge",
         "Low price range"
       ],
-      "reason": "Surge +119.3% with 1569.1x volume · small cap",
+      "reason": "12 Industrials Stocks Moving In Monday's Pre-Market Session",
       "tech_score": 0,
       "tech_signals": [],
       "tech_details": {},
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 2,
+      "top_news": "12 Industrials Stocks Moving In Monday's Pre-Market Session",
+      "news_source": "benzinga",
+      "news_time": "08:05 AM ET"
     },
     {
       "ticker": "LEG",
@@ -1005,21 +1176,26 @@
       "volx": 18.2,
       "mktcap": null,
       "float_m": null,
-      "score": 60,
+      "score": 75,
       "recommendation": "CAUTION BUY",
       "entry": 11.41,
       "tp": 15.26,
       "sl": 10.4,
-      "catalyst": "news",
+      "catalyst": "fda",
       "signals": [
+        "FDA catalyst",
         "Moderate gain",
         "18x volume surge"
       ],
-      "reason": "Surge +13.1% with 18.2x volume · small cap",
+      "reason": "Leggett & Platt, Allogene Therapeutics, Revolution Medicines…",
       "tech_score": 0,
       "tech_signals": [],
       "tech_details": {},
-      "score_momentum": 100
+      "score_momentum": 100,
+      "news_count": 4,
+      "top_news": "Leggett & Platt, Allogene Therapeutics, Revolution Medicines And Other Big Stocks Moving Higher On Monday",
+      "news_source": "benzinga",
+      "news_time": "10:29 AM ET"
     },
     {
       "ticker": "MNOV",
@@ -1034,7 +1210,7 @@
       "entry": 1.51,
       "tp": 2.02,
       "sl": 1.38,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "8.2x volume spike",
@@ -1043,7 +1219,11 @@
       "reason": "Surge +3.1% with 8.2x volume · small cap",
       "tech_score": 0,
       "tech_signals": [],
-      "tech_details": {}
+      "tech_details": {},
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "RMSG",
@@ -1053,23 +1233,28 @@
       "volx": 6235.8,
       "mktcap": 4.5,
       "float_m": 4.8,
-      "score": 59,
+      "score": 74,
       "recommendation": "CAUTION BUY",
       "entry": 1.32,
       "tp": 1.77,
       "sl": 1.21,
-      "catalyst": "news",
+      "catalyst": "earnings",
       "signals": [
+        "Earnings catalyst",
         "Micro float 4.8M",
         "Explosive 30%+",
         "6236x volume surge",
         "Ultra low price"
       ],
-      "reason": "Surge +178.7% with 6235.8x volume · $4.5M cap",
+      "reason": "Dow Dips Over 350 Points; Goldman Sachs Posts Upbeat Earning…",
       "tech_score": 0,
       "tech_signals": [],
       "tech_details": {},
-      "score_momentum": 99
+      "score_momentum": 99,
+      "news_count": 2,
+      "top_news": "Dow Dips Over 350 Points; Goldman Sachs Posts Upbeat Earnings",
+      "news_source": "benzinga",
+      "news_time": "09:48 AM ET"
     },
     {
       "ticker": "BFRG",
@@ -1079,19 +1264,20 @@
       "volx": 5.6,
       "mktcap": 16.3,
       "float_m": 12.7,
-      "score": 58,
+      "score": 73,
       "recommendation": "CAUTION BUY",
       "entry": 1.07,
       "tp": 1.42,
       "sl": 0.97,
-      "catalyst": "news",
+      "catalyst": "contract",
       "signals": [
+        "Contract signed",
         "Strong gain",
         "Below VWAP ✗",
         "5.6x volume spike",
         "Ultra low price"
       ],
-      "reason": "Surge +18.0% with 5.6x volume · $16.3M cap",
+      "reason": "BullFrog AI Lands Major Pharma Deal And Secures Funding Into…",
       "tech_score": 0,
       "tech_signals": [
         "Below VWAP ✗"
@@ -1099,7 +1285,11 @@
       "tech_details": {
         "vwap": 1.15
       },
-      "score_momentum": 97
+      "score_momentum": 97,
+      "news_count": 1,
+      "top_news": "BullFrog AI Lands Major Pharma Deal And Secures Funding Into 2027",
+      "news_source": "benzinga",
+      "news_time": "07:38 AM ET"
     },
     {
       "ticker": "HQWWW",
@@ -1114,7 +1304,7 @@
       "entry": 2.32,
       "tp": 3.1,
       "sl": 2.12,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "Above VWAP ✓",
@@ -1129,7 +1319,11 @@
       "tech_details": {
         "vwap": 2.18
       },
-      "score_momentum": 75
+      "score_momentum": 75,
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "ALGS",
@@ -1144,7 +1338,7 @@
       "entry": 8.67,
       "tp": 11.59,
       "sl": 7.9,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "Above VWAP ✓",
@@ -1158,7 +1352,11 @@
       "tech_details": {
         "vwap": 8.4
       },
-      "score_momentum": 73
+      "score_momentum": 73,
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "ALMU",
@@ -1168,18 +1366,19 @@
       "volx": 4.3,
       "mktcap": null,
       "float_m": null,
-      "score": 49,
-      "recommendation": "WATCH",
+      "score": 64,
+      "recommendation": "CAUTION BUY",
       "entry": 15.73,
       "tp": 21.02,
       "sl": 14.32,
-      "catalyst": "news",
+      "catalyst": "contract",
       "signals": [
+        "Contract signed",
         "Explosive 30%+",
         "At VWAP",
         "4.3x above avg"
       ],
-      "reason": "Surge +44.8% with 4.3x volume · small cap",
+      "reason": "Aeluma Stock Jumps On $4M Government Contract Win",
       "tech_score": 18,
       "tech_signals": [
         "At VWAP"
@@ -1187,7 +1386,11 @@
       "tech_details": {
         "vwap": 15.32
       },
-      "score_momentum": 70
+      "score_momentum": 70,
+      "news_count": 3,
+      "top_news": "Aeluma Stock Jumps On $4M Government Contract Win",
+      "news_source": "benzinga",
+      "news_time": "09:33 AM ET"
     },
     {
       "ticker": "PANG",
@@ -1202,7 +1405,7 @@
       "entry": 7.63,
       "tp": 10.19,
       "sl": 6.95,
-      "catalyst": "news",
+      "catalyst": "unknown",
       "signals": [
         "Moderate gain",
         "8.9x volume spike"
@@ -1211,7 +1414,11 @@
       "tech_score": 0,
       "tech_signals": [],
       "tech_details": {},
-      "score_momentum": 72
+      "score_momentum": 72,
+      "news_count": 0,
+      "top_news": null,
+      "news_source": null,
+      "news_time": null
     },
     {
       "ticker": "ALLO",
@@ -1221,19 +1428,20 @@
       "volx": 4.2,
       "mktcap": null,
       "float_m": null,
-      "score": 41,
+      "score": 56,
       "recommendation": "WATCH",
       "entry": 3.45,
       "tp": 4.62,
       "sl": 3.15,
-      "catalyst": "news",
+      "catalyst": "fda",
       "signals": [
+        "FDA catalyst",
         "Strong gain",
         "Below VWAP ✗",
         "4.2x above avg",
         "Low price range"
       ],
-      "reason": "Surge +26.2% with 4.2x volume · small cap",
+      "reason": "Leggett & Platt, Allogene Therapeutics, Revolution Medicines…",
       "tech_score": 0,
       "tech_signals": [
         "Below VWAP ✗"
@@ -1241,7 +1449,11 @@
       "tech_details": {
         "vwap": 3.91
       },
-      "score_momentum": 69
+      "score_momentum": 69,
+      "news_count": 6,
+      "top_news": "Leggett & Platt, Allogene Therapeutics, Revolution Medicines And Other Big Stocks Moving Higher On Monday",
+      "news_source": "benzinga",
+      "news_time": "10:29 AM ET"
     }
   ],
   "summary": {

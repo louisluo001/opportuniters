@@ -1,23 +1,253 @@
 {
-  "generated_at": "2026-04-13 03:37:39 ET",
+  "generated_at": "2026-04-13 11:46:17 ET",
   "date": "2026-04-13",
   "articles": [
     {
-      "title": "Goldman Sachs, Fastenal And 3 Stocks To Watch Heading Into Monday",
-      "summary": "Stock futures trade lower on Monday as investors focus on earnings reports from Goldman Sachs, Children&#39;s Place, Fastenal, FRP Holdings.",
+      "title": "Seer Shares Jump On Takeover Proposal",
+      "summary": "Seer, Inc. (NASDAQ:SEER) shares are trading higher Monday after the company announced that the Radoff-JEC Group submitted a non-binding proposal to acquire the company.",
       "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/equities/26/04/51772161/goldman-sachs-fastenal-and-3-stocks-monday",
-      "time": "02:00 AM ET",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51781625/seer-shares-jump-on-takeover-proposal",
+      "time": "10:36 AM ET",
       "type": "fda",
       "impact": "high",
-      "ticker": "PLCE"
+      "ticker": "SEER"
+    },
+    {
+      "title": "Leggett & Platt, Allogene Therapeutics, Revolution Medicines And Other Big Stocks Moving Higher On Monday",
+      "summary": "U.S. stocks were mixed on Monday, with the Dow Jones falling over 200 points. Leggett &amp; Platt rose on news of being acquired by Somnigroup.",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51781424/leggett-platt-allogene-therapeutics-revolution-medicines-and-other-big-stocks-moving-higher-on-monday",
+      "time": "10:29 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "CLLS"
+    },
+    {
+      "title": "Dow Dips Over 350 Points; Goldman Sachs Posts Upbeat Earnings",
+      "summary": "US stocks fall, Dow down 350 points, tech up 1.2%. Goldman Sachs beats earnings, oil up 7.1%, European and Asian markets mostly lower. US home sales data expected.",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/04/51779507/dow-dips-over-350-points-goldman-sachs-posts-upbeat-earnings",
+      "time": "09:48 AM ET",
+      "type": "earnings",
+      "impact": "high",
+      "ticker": "RCT"
+    },
+    {
+      "title": "RedCloud Holdings Shares Halted On Circuit Breaker To The Upside, Stock Now Up 143.86%",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/26/04/51779332/redcloud-holdings-shares-halted-on-circuit-breaker-to-the-upside-stock-now-up-143-86",
+      "time": "09:44 AM ET",
+      "type": "offering",
+      "impact": "med",
+      "ticker": "RCT"
+    },
+    {
+      "title": "Aeluma Stock Jumps On $4M Government Contract Win",
+      "summary": "Aeluma shares rise after the company announced it secured more than $4 million in contracts from the U.S. Government",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51778678/aeluma-stock-jumps-on-4m-government-contract-win",
+      "time": "09:33 AM ET",
+      "type": "contract",
+      "impact": "med",
+      "ticker": "ALMU"
+    },
+    {
+      "title": "Bedding Giant Somnigroup Acquires Key Supplier Leggett & Platt",
+      "summary": "Leggett &amp; Platt stock jumps after Somnigroup announces $2.5B all-stock deal. Here&#39;s what it means for investors and future growth.",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/m-a/26/04/51777780/bedding-giant-somnigroup-acquires-key-supplier-leggett-platt",
+      "time": "08:57 AM ET",
+      "type": "contract",
+      "impact": "med",
+      "ticker": "LEG"
+    },
+    {
+      "title": "RedCloud Holdings Signs Five-Year, $30M Licensing Deal To Deploy Its RAID Engine In Saudi Arabia",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51776808/redcloud-holdings-signs-five-year-30m-licensing-deal-to-deploy-its-raid-engine-in-saudi-arabia",
+      "time": "08:18 AM ET",
+      "type": "contract",
+      "impact": "med",
+      "ticker": "RCT"
+    },
+    {
+      "title": "The Radoff-JEC Group Submits Non-Binding Proposal To Acquire Seer For $2.25/Share",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/m-a/26/04/51776618/the-radoff-jec-group-submits-non-binding-proposal-to-acquire-seer-for-2-25share",
+      "time": "08:10 AM ET",
+      "type": "merger",
+      "impact": "high",
+      "ticker": "SEER"
+    },
+    {
+      "title": "12 Consumer Discretionary Stocks Moving In Monday's Pre-Market Session",
+      "summary": " ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/movers/26/04/51776391/12-consumer-discretionary-stocks-moving-in-mondays-pre-market-session",
+      "time": "08:05 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "LOT"
+    },
+    {
+      "title": "12 Health Care Stocks Moving In Monday's Pre-Market Session",
+      "summary": " ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/movers/26/04/51776385/12-health-care-stocks-moving-in-mondays-pre-market-session",
+      "time": "08:05 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "CLLS"
+    },
+    {
+      "title": "12 Industrials Stocks Moving In Monday's Pre-Market Session",
+      "summary": " ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/movers/26/04/51776381/12-industrials-stocks-moving-in-mondays-pre-market-session",
+      "time": "08:05 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "RECT"
+    },
+    {
+      "title": "12 Information Technology Stocks Moving In Monday's Pre-Market Session",
+      "summary": " ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/movers/26/04/51776380/12-information-technology-stocks-moving-in-mondays-pre-market-session",
+      "time": "08:05 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "ALMU"
+    },
+    {
+      "title": "Rectitude Holdings Secures Over S$10M Rental, Sales Contract Orders For Its Intelligence Micro-Grid System During H2 FY26",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51776331/rectitude-holdings-secures-over-s-10m-rental-sales-contract-orders-for-its-intelligence-micro-grid-s",
+      "time": "08:03 AM ET",
+      "type": "contract",
+      "impact": "med",
+      "ticker": "RECT"
+    },
+    {
+      "title": "Fastenal, Replimune Group, Children's Place And Other Big Stocks Moving Lower In Monday's Pre-Market Session",
+      "summary": "U.S. stock futures lower, with Dow futures down 150 points. Fastenal shares dip 4% after meeting earnings estimate. Other stocks also down.",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51776284/fastenal-replimune-group-childrens-place-and-other-big-stocks-moving-lower-in-mondays-pre-market-session",
+      "time": "08:02 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "LOT"
+    },
+    {
+      "title": "Reported April 10, 2026: Jiade FY EPS $(1.62), Sales $3.674M",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/earnings/26/04/51776116/reported-april-10-2026-jiade-fy-eps-1-62-sales-3-674m",
+      "time": "07:58 AM ET",
+      "type": "earnings",
+      "impact": "high",
+      "ticker": "JDZG"
+    },
+    {
+      "title": "Trading Halt: Halt status updated at 7:55:00 AM ET: Quotation Resumption: News and Resumption Times",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/26/04/51776074/trading-halt-halt-status-updated-at-7-55-00-am-et-quotation-resumption-news-and-resumption-times",
+      "time": "07:55 AM ET",
+      "type": "news",
+      "impact": "med",
+      "ticker": "ALLO"
+    },
+    {
+      "title": "BullFrog AI Lands Major Pharma Deal And Secures Funding Into 2027",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51775692/bullfrog-ai-lands-major-pharma-deal-and-secures-funding-into-2027",
+      "time": "07:38 AM ET",
+      "type": "contract",
+      "impact": "med",
+      "ticker": "BFRG"
+    },
+    {
+      "title": "Allogene Therapeutics Announces 58.3% Of Participants In Cemacabtagene Ansegedleucel Arm Of Phase 2 ALPHA3 Study Demonstrate Minimal Residual Disease",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/26/04/51775681/allogene-therapeutics-announces-58-3-of-participants-in-cemacabtagene-ansegedleucel-arm-of-phase-2-a",
+      "time": "07:38 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "ALLO"
+    },
+    {
+      "title": "Trading Halt: Halted at 7:25:00 a.m. ET - Trading Halt: Halt News Pending",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/26/04/51775436/trading-halt-halted-at-7-25-00-a-m-et-trading-halt-halt-news-pending",
+      "time": "07:25 AM ET",
+      "type": "news",
+      "impact": "med",
+      "ticker": "ALLO"
+    },
+    {
+      "title": "Market-Moving News for April 13th",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51775304/market-moving-news-for-april-13th",
+      "time": "07:21 AM ET",
+      "type": "news",
+      "impact": "med",
+      "ticker": "IMA"
+    },
+    {
+      "title": "ImageneBio Raises $30M Via Private Institutional Placement To Fund Hair Loss And Skin Disease Treatments",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51775016/imagenebio-raises-30m-via-private-institutional-placement-to-fund-hair-loss-and-skin-disease-treatme",
+      "time": "07:06 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "IMA"
+    },
+    {
+      "title": "Aeluma Announces Contract Awards Of Over $4 Million From The U.S. Government To Accelerate Scaling Of its Semiconductor Heterogeneous Integration Platform",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51774979/aeluma-announces-contract-awards-of-over-4-million-from-the-u-s-government-to-accelerate-scaling-of",
+      "time": "07:05 AM ET",
+      "type": "contract",
+      "impact": "med",
+      "ticker": "ALMU"
+    },
+    {
+      "title": "Leggett & Platt To Be Acquired By Somnigroup For $11.36 Per Share In $2.5 Billion In All-Stock Deal, Which Is Seen As Immediately Accretive",
+      "summary": "",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51774521/leggett-platt-to-be-acquired-by-somnigroup-for-11-36-per-share-in-2-5-billion-in-all-stock-deal-whic",
+      "time": "06:44 AM ET",
+      "type": "contract",
+      "impact": "med",
+      "ticker": "LEG"
+    },
+    {
+      "title": "Why IDEAYA Biosciences Shares Are Trading Higher By 18%; Here Are 20 Stocks Moving Premarket",
+      "summary": "\nIDEAYA Biosciences shares (NASDAQ: IDYA) jumped 18% in pre-market trading after announcing topline results from ongoing Phase 2/3 trial.",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51773369/why-ideaya-biosciences-shares-are-trading-higher-by-18-here-are-20-stocks-moving-premarket",
+      "time": "05:27 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "JDZG"
     }
   ],
   "stats": {
-    "total_articles": 1,
-    "fda_count": 1,
-    "earnings_count": 0,
-    "contract_count": 0,
-    "high_impact_count": 1
+    "total_articles": 24,
+    "fda_count": 10,
+    "earnings_count": 2,
+    "contract_count": 7,
+    "high_impact_count": 13
   }
 }
