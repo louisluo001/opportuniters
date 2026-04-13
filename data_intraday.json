@@ -1,0 +1,13 @@
+{
+  "session": "intraday",
+  "generated_at": "2026-04-13 13:26:43 ET",
+  "date": "2026-04-13",
+  "candidates": [],
+  "summary": {
+    "count": 0,
+    "max_spike": 0,
+    "max_vol": 0,
+    "strong_buys": 0,
+    "top_ticker": "—"
+  }
+}
