@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-04-13 03:37:39 ET",
+  "date": "2026-04-13",
+  "articles": [
+    {
+      "title": "Goldman Sachs, Fastenal And 3 Stocks To Watch Heading Into Monday",
+      "summary": "Stock futures trade lower on Monday as investors focus on earnings reports from Goldman Sachs, Children&#39;s Place, Fastenal, FRP Holdings.",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/04/51772161/goldman-sachs-fastenal-and-3-stocks-monday",
+      "time": "02:00 AM ET",
+      "type": "fda",
+      "impact": "high",
+      "ticker": "PLCE"
+    }
+  ],
+  "stats": {
+    "total_articles": 1,
+    "fda_count": 1,
+    "earnings_count": 0,
+    "contract_count": 0,
+    "high_impact_count": 1
+  }
+}
